@@ -1,5 +1,7 @@
 # Hi there 🖖
  ### Better known as Ghost👻 
+ 
+ [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santa-cruz-sim%C3%A3o-53956b1a4/)
 
 Here are some ideas to get you started:
 
@@ -7,7 +9,6 @@ Here are some ideas to get you started:
 
 # I'm a full stack developer developer from 🇨🇴
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santa-cruz-sim%C3%A3o-53956b1a4/)
 
 # :man_technologist: Knowledges
 
