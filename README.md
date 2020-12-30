@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 # 🖖 there, I'm a full stack developer developer from 🇨🇴
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santa-cruz-sim%C3%A3o-53956b1a4/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dacelis0@misena.edu.co)](felipesantacruz6@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573008754649&text=Olá!)](https://api.whatsapp.com/send?phone=573008754649&text=Hi!🖖)
 
 
 # :man_technologist: Knowledges
