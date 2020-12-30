@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # :man_technologist: Knowledges
 
-##Backend
+## Backend
 
 ## Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -48,6 +48,5 @@ Here are some ideas to get you started:
 
 ## Editors
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Microsoft Visual Studio](https://sdtimes.com/wp-content/uploads/2016/03/0314.sdt-news.jpg)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
