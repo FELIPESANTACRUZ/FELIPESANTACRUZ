@@ -1,16 +1,13 @@
 # Hi there 🖖
-
-Here are some ideas to get you started:
  ### mais conhecido como Ghost👻 
 
+Here are some ideas to get you started:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FELIPESANTACRUZ&layout=compact&theme=midnight-purple)](https://github.com/FELIPESANTACRUZ/github-readme-stats)
-
-
 
 # I'm a full stack developer developer from 🇨🇴
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santa-cruz-sim%C3%A3o-53956b1a4/)
-
 
 # :man_technologist: Knowledges
 
@@ -28,7 +25,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 
-## Others
+## Sis
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
 ## Frameworks
