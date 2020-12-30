@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/babel.svg" alt="Babel" width="21px" height="21px"></a>
 <a href="https://spring.io/" title="Spring"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/spring.svg" alt="Spring" width="21px" height="21px"></a>
+<a href="https://reactnative.dev/" title="React Native"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/react.svg" alt="React Native" width="21px" height="21px"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="21px" height="21px"></a>
 
 ## Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
