@@ -50,3 +50,9 @@ Here are some ideas to get you started:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
 
+### 👀 visitor count
+
+<img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
+
+<hr />
+
