@@ -1,5 +1,5 @@
 # Hi there 🖖
- ### mais conhecido como Ghost👻 
+ ### Better known as Ghost👻 
 
 Here are some ideas to get you started:
 
@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/babel.svg" alt="Babel" width="21px" height="21px"></a>
 <a href="https://spring.io/" title="Spring"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/spring.svg" alt="Spring" width="21px" height="21px"></a>
+<a href="https://csharp.io/" title="Csharp"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" alt="CSharp" width="21px" height="21px"></a>
+
 
 
 ## Frontend
