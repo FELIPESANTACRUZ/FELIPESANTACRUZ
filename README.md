@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 # :man_technologist: Knowledges
 
 ## Backend
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 ## Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -37,6 +42,7 @@ Here are some ideas to get you started:
 ## Database
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
 
 ## Deploy
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
