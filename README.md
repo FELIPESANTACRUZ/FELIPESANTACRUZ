@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 
 ## Editors
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)
+![Microsoft Visual Studio](https://www.google.com.br/search?q=visual+studio+image&sxsrf=ALeKk03-x7Wpv4rVjUaV8qlxtnXzyatK2g:1609354110391&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjv6cSgr_btAhW4E7kGHYnAAKYQ_AUoAXoECBAQAw&biw=1280&bih=913#imgrc=LstqKkaT4lnhKM&imgdii=JcSGsAHvBDOnqM)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
-![Webstorm](http://img.shields.io/badge/-Webstorm-3C4858?style=flat-square&logo=webstorm)
+
