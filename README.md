@@ -1,11 +1,3 @@
-# Hi there 🖖
-
-
-
-
-Here are some ideas to get you started:
- ### mais conhecido como Ghost👻 
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FELIPESANTACRUZ&layout=compact&theme=midnight-purple)](https://github.com/FELIPESANTACRUZ/github-readme-stats)
 
@@ -18,14 +10,21 @@ Here are some ideas to get you started:
 
 # :man_technologist: Knowledges
 
-## Backend                                                                                            ## Frontend
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)     ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)                                                                ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)                                                                                  ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)                                                                 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)                                                                            ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)                                  
+## Backend
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)  
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
-## Operational systems
+## Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+
+## Others
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
 ## Frameworks
@@ -57,4 +56,3 @@ Here are some ideas to get you started:
 <img src="https://profile-counter.glitch.me/hayat-tamboli/count.svg" alt="Hello world" />
 
 <hr />
-
