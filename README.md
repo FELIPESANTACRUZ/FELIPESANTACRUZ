@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 # :man_technologist: Knowledges
 
 ## Backend
+<a href="https://csharp.io/" title="Csharp"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" alt="CSharp" width="21px" height="21px"></a>
 <a href="https://www.java.com/" title="Java"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="Java" width="21px" height="21px"></a>
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://www.npmjs.com/" title="NPM"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/npm.svg" alt="NPM" width="21px" height="21px"></a>
 <a href="https://babeljs.io/" title="Babel"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/babel.svg" alt="Babel" width="21px" height="21px"></a>
 <a href="https://spring.io/" title="Spring"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/spring.svg" alt="Spring" width="21px" height="21px"></a>
-<a href="https://csharp.io/" title="Csharp"><img src="https://raw.githubusercontent.com/tomchen/stack-icons/master/logos/c-sharp.svg" alt="CSharp" width="21px" height="21px"></a>
+
 
 
 
