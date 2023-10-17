@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FELIPESANTACRUZ&layout=compact)](https://github.com/FELIPESANTACRUZ/github-readme-stats)
 
-# I'm a full stack developer developer from 🇨🇴
+# I'm a full stack developer
 
 
 # :man_technologist: Knowledges
